@@ -123,9 +123,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# from pyngrok import ngrok
-# NGROK_AUTH_TOKEN = "3CGZKTM3Wahcad3UP5tTcPWj1lP_2LriDU4DV75a7JjgkeEy4"
-# ngrok.set_auth_token(NGROK_AUTH_TOKEN)
-
-# public_url = ngrok.connect(8501)
-# print("앱 접속 URL:" ,public_url)
